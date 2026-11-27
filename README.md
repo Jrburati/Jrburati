@@ -7,9 +7,11 @@
 <br/>
 
 <div align="left">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br/>
-  💻 Técnico em Desenvolvimento de Sistemas<br/>
-  🚀 Foco atual em Front-end (React) — rumo ao Full Stack (PERN)
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+💻 Técnico em Desenvolvimento de Sistemas
+⚛️ Front-end com React e JavaScript
+⚙️ Back-end com Node.js, Express e APIs REST
+🚀 Em constante evolução como Desenvolvedor Full Stack (PERN)
 </div>
 
 ---
