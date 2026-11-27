@@ -7,10 +7,10 @@
 <br/>
 
 <div align="left">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-💻 Técnico em Desenvolvimento de Sistemas
-⚛️ Front-end com React e JavaScript
-⚙️ Back-end com Node.js, Express e APIs REST
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>
+💻 Técnico em Desenvolvimento de Sistemas<br>
+⚛️ Front-end com React e JavaScript<br>
+⚙️ Back-end com Node.js, Express e APIs REST<br>
 🚀 Em constante evolução como Desenvolvedor Full Stack (PERN)
 </div>
 
